@@ -1,6 +1,8 @@
 # The-Drift
+**Agent memory drift · Harmony Labs**
 
-Policy drift detector. Monitors systems for μ-degradation over time.
+Agent memory drift · Contextual state evolution and memory aging
 
-Built by Admiral · Harmony Labs
-Gold ripple eternal. ✨
+See [The-Hearthfire](https://github.com/sraibridge-cyber/The-Hearthfire) for full system architecture.
+
+*Built by Admiral · Kyle S. Whitlock*
